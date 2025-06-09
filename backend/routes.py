@@ -1,5 +1,3 @@
-# coin_detection/routes.py
-
 from fastapi import UploadFile, File, HTTPException
 from fastapi.responses import JSONResponse
 from image_utils import ImageValidator
