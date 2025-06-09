@@ -21,7 +21,7 @@ This project is a web application for detecting and counting coins in images usi
 From the root of the project (`pocitaniminci`):
 
 ```bash
-docker-compose up --build
+docker compose up
 ```
 
 - The **backend** will be available at [http://localhost:8000](http://localhost:8000)
