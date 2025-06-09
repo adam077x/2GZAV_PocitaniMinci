@@ -18,7 +18,7 @@ This project is a web application for detecting and counting coins in images usi
 
 ### Quick Start (Recommended)
 
-From the root of the project (`pocitaniminci`):
+From the root of the project (`2GZAV_PocitaniMinci`):
 
 ```bash
 docker compose up
